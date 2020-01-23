@@ -1,0 +1,12 @@
+1) kali linux
+2) install python 3
+3) install subprocess module
+4) install optparse module
+
+use command :
+ python Mac_Changer.py --help
+
+ program execution
+ python Mac_Changer.py -i "interface" -m "new_mac"
+
+ "run program in simple mac changer directory"
